@@ -148,3 +148,117 @@
 [2020-08-29 04:52:30] Preguntando el estado del siguiente pedidio: order_12460
 [2020-08-29 04:52:30] La repuesta del repartidor es: "El pedido: undefined esta en ruta"
 [2020-08-29 04:52:30] FIN DE LA SOLICITUD AL REPARTIDOR
+[2020-09-04 02:32:35] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:32:35] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:32:35] La repuesta del restaurante es: ""
+[2020-09-04 02:32:35] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:33:36] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:33:36] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:33:36] La repuesta del restaurante es: "El pedido: undefined recibida y procesada."
+[2020-09-04 02:33:36] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:34:47] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:34:47] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:34:47] La repuesta del restaurante es: "El pedido: undefined recibida y procesada."
+[2020-09-04 02:34:47] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:40:19] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:40:19] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:40:19] La repuesta del restaurante es: "El pedido: pizza recibida y procesada."
+[2020-09-04 02:40:19] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:40:34] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:40:34] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:40:34] La repuesta del restaurante es: "El pedido: undefined fue enviado al repartidor"
+[2020-09-04 02:40:34] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:40:58] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:40:58] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:40:58] La repuesta del restaurante es: "El pedido: undefined fue enviado al repartidor"
+[2020-09-04 02:40:58] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:41:01] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:41:01] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:41:01] La repuesta del restaurante es: "El pedido: undefined fue enviado al repartidor"
+[2020-09-04 02:41:01] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:42:36] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:42:36] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:42:36] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:42:36] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:42:44] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:42:44] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:42:44] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:42:44] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:43:11] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:43:11] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:43:11] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:43:11] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:43:21] INICIO DE SOLICITUD AL REPARTIDOR
+[2020-09-04 02:43:21] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:44:21] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:44:21] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:44:21] La repuesta del restaurante es: "El pedido: pizza recibida y procesada."
+[2020-09-04 02:44:21] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:44:24] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:44:24] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:44:24] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:44:24] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:44:26] INICIO DE SOLICITUD AL REPARTIDOR
+[2020-09-04 02:44:26] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:44:26] La repuesta del repartidor es: "El pedido: order_12460 esta en ruta"
+[2020-09-04 02:44:26] FIN DE LA SOLICITUD AL REPARTIDOR
+[2020-09-04 02:44:29] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:44:29] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:44:29] La repuesta del restaurante es: "El pedido: pizza recibida y procesada."
+[2020-09-04 02:44:29] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:44:34] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:44:34] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:44:34] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:44:34] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:44:38] INICIO DE SOLICITUD AL REPARTIDOR
+[2020-09-04 02:44:38] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:44:38] La repuesta del repartidor es: "El pedido: order_12460 esta en ruta"
+[2020-09-04 02:44:38] FIN DE LA SOLICITUD AL REPARTIDOR
+[2020-09-04 02:50:10] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:10] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:50:11] La repuesta del restaurante es: "El pedido: pizza recibida y procesada."
+[2020-09-04 02:50:11] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:14] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:14] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:50:14] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:50:14] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:18] INICIO DE SOLICITUD AL REPARTIDOR
+[2020-09-04 02:50:18] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:50:18] La repuesta del repartidor es: "El pedido: order_12460 esta en ruta"
+[2020-09-04 02:50:18] FIN DE LA SOLICITUD AL REPARTIDOR
+[2020-09-04 02:50:21] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:21] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:50:21] La repuesta del restaurante es: "El pedido: pizza recibida y procesada."
+[2020-09-04 02:50:21] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:23] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:23] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:50:23] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:50:23] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:25] INICIO DE SOLICITUD AL REPARTIDOR
+[2020-09-04 02:50:25] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:50:25] La repuesta del repartidor es: "El pedido: order_12460 esta en ruta"
+[2020-09-04 02:50:25] FIN DE LA SOLICITUD AL REPARTIDOR
+[2020-09-04 02:50:28] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:28] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:50:28] La repuesta del restaurante es: "El pedido: pizza recibida y procesada."
+[2020-09-04 02:50:28] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:29] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:29] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:50:29] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:50:29] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:32] INICIO DE SOLICITUD AL REPARTIDOR
+[2020-09-04 02:50:32] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:50:32] La repuesta del repartidor es: "El pedido: order_12460 esta en ruta"
+[2020-09-04 02:50:32] FIN DE LA SOLICITUD AL REPARTIDOR
+[2020-09-04 02:50:34] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:34] Solicitando al restaurante el siguiente pedidio: pizza
+[2020-09-04 02:50:34] La repuesta del restaurante es: "El pedido: pizza recibida y procesada."
+[2020-09-04 02:50:34] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:34] INICIO DE SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:34] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:50:34] La repuesta del restaurante es: "El pedido: order_1234 fue enviado al repartidor"
+[2020-09-04 02:50:34] FIN DE LA SOLICITUD AL RESTAURANTE
+[2020-09-04 02:50:35] INICIO DE SOLICITUD AL REPARTIDOR
+[2020-09-04 02:50:35] Preguntando el estado del siguiente pedidio: order_12460
+[2020-09-04 02:50:35] La repuesta del repartidor es: "El pedido: order_12460 esta en ruta"
+[2020-09-04 02:50:35] FIN DE LA SOLICITUD AL REPARTIDOR

@@ -13,7 +13,7 @@ function create_request_food($requested_food){
 	log_message_text('Solicitando al restaurante el siguiente pedidio: ' .$requested_food);
 	
 	$ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, "http://192.168.0.11:3001/receive_order");
+    curl_setopt($ch, CURLOPT_URL, "http://192.168.0.11:4000/order_restaurant");
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($ch, CURLOPT_HEADER, 0);
     curl_setopt($ch, CURLOPT_POSTFIELDS, json_encode(["order"=>$requested_food]));
@@ -31,8 +31,8 @@ function get_state_restaurant($order){
 	log_message_text('Preguntando el estado del siguiente pedidio: ' .$order);
 
 	$ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, "http://192.168.0.11:3001/report_status");
-    curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json' , $authorization));
+    curl_setopt($ch, CURLOPT_URL, "http://192.168.0.11:4000/state_restaurant");
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($ch, CURLOPT_HEADER, 0);
     $response = curl_exec($ch);
@@ -48,8 +48,8 @@ function get_state_dealer($order){
 	log_message_text('Preguntando el estado del siguiente pedidio: ' .$order);
 
 	$ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, "http://192.168.0.11:3002/report_status");
-    curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json' , $authorization));
+    curl_setopt($ch, CURLOPT_URL, "http://192.168.0.11:4000/state_dealer?order=".$order);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json'));
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($ch, CURLOPT_HEADER, 0);
     $response = curl_exec($ch);

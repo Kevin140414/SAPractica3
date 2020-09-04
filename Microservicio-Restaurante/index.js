@@ -35,7 +35,7 @@ app.get('/request_order', (req, res) => {
     log_message_text('PETICION RECIBIDA, PROCESANDO','request_order');
     log_message_text(`El pedido: ${req.query.order} ha sido entregado, su estado será cambiado`,'request_order');    
     
-    axios.post('http://localhost:3002/receive_order', {
+    axios.post('http://localhost:4000/recive_order_dealer', {
         id: 'order_12460'        
       })
       .then(function (response) {
