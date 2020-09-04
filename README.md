@@ -1,11 +1,10 @@
 # Practica 4 - Software Avanzado
 
-Esta aplicación es un cliente que consume el web service: https://api.softwareavanzado.world/index.php?webserviceClient=administrator&webserviceVersion=1.0.0&option=contact&api=hal&format=doc.
+Video: https://youtu.be/THiFRimMo1o
 
 ###### ESB
 El objetivo del ESB es mejorar y ayudar al crecimiento de un negocio.
 El Bus de Servicios Empresariales debe ser lo bastante robusto como para que permita administrar los cambios en los requerimientos sin que esto suponga en los servicios ya instalados incidencia alguna. Sistema de eventos e infraestructura deben ser capaces de conectar cualquier recurso de TI con independencia de qué tecnología emplee éste.
-
 
 ###### Microservicio cliente
 - Solicitar pedido al restaurante
